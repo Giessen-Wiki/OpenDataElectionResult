@@ -6,3 +6,4 @@ Aktenbestand des Stadtarchiv Gießen, Signatur: 1-L - 0752
 
 **Kommunalwahl 1925:**  
 Aktenbestand des Stadtarchiv Gießen, Signatur: 1-L - 0755
+Aktenbestand des Stadtarchiv Gießen, Signatur: 1-L - 0756
