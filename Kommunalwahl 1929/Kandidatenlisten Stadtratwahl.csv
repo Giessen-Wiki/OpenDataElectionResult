@@ -1,0 +1,125 @@
+Wahlvorschlags Nr.,Listenplatz,Vorname,Familienname,Geburtsname,Beruf
+W 1,1,Georg,Beckmann,,Angestellter
+W 1,2,Albin,Mann,,Gewerkschaftsbeamter
+W 1,3,Christine,Noll,Simon,Hausfrau
+W 1,4,Wilhelm,Christ,,Schlosser
+W 1,5,Friedrich,Vetters,,Redakteur
+W 1,6,Franz,Diener,,Geschäftsführer
+W 1,7,Hermann,Schmidt,,Rektor
+W 1,8,Heinrich,Häuser,,Parteisekretär
+W 1,9,Konrad,Gumbel,,Volkswirt
+W 1,10,Josef,Meier,,Sekretär
+W 1,11,Paul,Homberger,,Rechtsanwalt
+W 1,12,Marie,Reh,Stieglitz,Hausfrau
+W 1,13,Christian,Weißbeck,,Trichinenschauer
+W 1,14,Heinrich,Baum,,Glasermeister
+W 1,15,Helene,Kröck,Spies,Schneiderin
+W 1,16,Otto,Ottilie,,Gewerkschaftsangestellter
+W 1,17,Theodor,Rühl,,Angestellter
+W 1,18,Fritz,Röcker,,Schneider
+W 1,19,Jakob,Moutarde,,Buchdrucker
+W 1,20,Andreas,Götz,,Dreher
+W 1,21,Hermann,Degenhardt,,Buchdrucker
+W 1,22,Elisabeth,Seckinger,Horst,Hausfrau
+W 1,23,Konrad,Schomber,,Amtsgehilfe
+W 1,24,Jakob,Hillgärtner,,Lagerist
+W 1,25,Johann,Horst,,Schreiner
+W 1,26,Georg,Weippert,,Chauffeur
+W 1,27,Heinrich,Hofmann,,Schreiner
+W 1,28,Heinrich,Günther,,Verkäufer
+W 2,1,Ludwig,Stork,,Maurer
+W 2,2,Karl,Gerstenberg,,Händler
+W 2,3,Heinrich,Balser,,Arbeiter
+W 2,4,Georg,Dönges,,Eisenbahnschlosser
+W 2,5,Ellisabeth,Kästner,Riegler,Hausfrau
+W 2,6,Hans,Rosenbaum,,Dachdecker
+W 2,7,Ludwig,Wissner,,Arbeiter
+W 2,8,Karl,Volk,,Arbeiter
+W 3,1,Heinrich,Goerz,,Lehrer
+W 3,2,Peter,Grode,,Bauoberinspektor
+W 3,3,Peter,Schäfer,,Schriftsetzer
+W 3,4,Katharine,Wilhelmi,Bremm,Hausfrau
+W 3,5,Eduard,Schneider,,Krankenpfleger
+W 3,6,Susanne,Sterkel,,Hausangestellte
+W 3,7,Eduard,Simmer,,Schneidermeister
+W 3,8,Jakob,Keller,,Amtsgerichtsdirektor
+W 5,1,Adam,Lotz,,Postbetriebsassistent
+W 5,2,Lorenz,Eifert,,Verwaltungssekretär
+W 5,3,Adolf,Münker,,Bergingenieur
+W 5,4,Heinrich,Kraft,,Former
+W 5,5,August,Horn,,Kraftfahrer
+W 5,6,Heinrich,Klös,,Bauzeichner
+W 5,7,Willy,Wenderoth,,Arbeiter
+W 13,1,Martin,Fischer,,Stadtschulrat
+W 13,2,Christian,Reiber,,Rentner
+W 13,3,Else,Marx,Plank,praktizierende Ärztin
+W 13,4,Leopold,Mayer,,Kaufmann
+W 13,5,Christian,Spies,,Sattlermeister
+W 13,6,Ludwig,Hebermehl,,Oberreallehrer
+W 13,7,Georg,Heussel,,Studienrat
+W 13,8,Wdfgang,Mittermaier,,Universitäts-Professor
+W 13,9,Berta,Fix,,Musiklehrerin
+W 13,10,Franz,Bepler,,Bahnschlosser
+W 13,11,Karl,Stieber,,Kaufmann
+W 13,12,Georg,Haubach,,Schreinermeister
+W 14,1,Wilhelm,Horn,,Kaufmann
+W 14,2,Emma,Schudt,Weiffenbach,Hausfrau
+W 14,3,Richard,Appel,,Oberreallehrer
+W 14,4,Wilhelm,Loeber,,Bäckermeister
+W 14,5,Ernst,Schneider,,Rechtsanwalt u. Notar
+W 14,6,Fritz,Wenzel,,Dreher i
+W 14,7,Theodor,Schwieder,,Rentner
+W 14,8,Friedrich,Hirsch,,Prokurist
+W 14,9,Karl,Krailing,,Schlossermeister
+W 14,10,Ernst,Rumpf,,Landgerichtsregistrator
+W 14,11,Otto,Winterhoff,,Kaufmann
+W 14,12,Heinrich,Hochstätter,,Kaufmann
+W 14,13,Karl,Ploch,,Arzt
+W 14,14,Franz,Gros,,Amtsgerichtsrat
+W 14,15,Clara,Birnbaum,,Lehrerin
+W 14,16,Ernst,Pfeiffer,,Bauunternehmer
+W 14,17,Ludwig,Lembke,,Kaufmann
+W 14,18,Hermann,Will,,Steuersyndikus u.beeidigter Bücherrevisor
+W 14,19,Heinrich Leopold,Monnard,,Oberveterinärrat
+W 14,20,Christian,Müller,,Studienrat
+W 14,21,Elise,Riebel,Spies,Hausfrau
+W 14,22,Robert,Gärtner sn.,,Schneidermeister
+W 14,23,Georg,Albrecht,,Obermaschinenmeister i.R.
+W 14,24,Konrad,Rust,,Bauingenieur
+W 17,1,Otto,Lenz,,Studienrat
+W 17,2,Georg,Becker,,Bauunternehmer
+W 17,3,Frieda,Klewitz,Blindow,Hausfrau
+W 17,4,August,Brüning,,Universitätsprofessor
+W 17,5,Hugo,Lucas,,Postinspektor
+W 17,6,Heinrich,Gottmenn,,Landwirt
+W 17,7,Antonie,Baehr,Ritzel,Tierarztwitwe
+W 17,8,Fritz,Nachtigall,,Schlossermeister
+W 17,9,Friedrich,Welcker,,Oberregierungsrat a.D.
+W 17,10,Karoline,Völker,Spamer,Hausfrau
+W 17,11,Otto,Weimar,,Professor
+W 17,12,Fritz,Reuling,,Weißbindermeister
+W 17,13,Karl,Uhl,,Landwirt
+W 17,14,Fritz,Baumert,,Verwaltungssekretär i.R.
+W 17,15,Fritz,Engel,,Schlosser
+W 17,16,Emmy,Dingeldein,,Privatin
+W 17,17,Georg,Kling,,Rektor
+W 18,1,Philipp,Nicolaus,,Architekt
+W 18,2,Heinrich,Launspach,,Malermeister
+W 18,3,Alexander,Ringel,,Kaufmann
+W 18,4,Adolf,Kurz,,Oberingenieur
+W 18,5,Albert,Rahnefeld,,Gastwirt
+W 18,6,August,Balzer,,Weinhändler
+W 18,7,Adolf,Schmidt,,Handelsvertreter
+W 18,8,Friedrich,Lenz,,Schreinermeister
+W 18,9,Karl,Dierlamm,,Polizeiverwaltungs-Oberassistent
+W 18,10,Hans,van Bentheim,,praktizierender Tierarzt
+W 18,11,Georg,Wallenfels,,Kaufmann
+W 18,12,Rudolf,Rödiger,,Installationsmeister
+W 18,13,Friedrich,Wörner,,Dampf-Wäschereibesitzer
+W 18,14,Heinrich,Weimer jun.,,Bauunternehmer
+W 18,15,Hans,Goetz,,Friseurobermeister
+W 18,16,Wilhelm,Amend jun.,,Konditormeister und Cafetier
+W 18,17,Rudolf,Pfaff,,Baurat
+W 18,18,Karl,Schmidt,,Schlossermeister
+W 18,19,Heinrich,Reinschmidt,,Generalagent und Landwirt
+W 18,20,Max,Weissbäcker,,Elektrotechniker
